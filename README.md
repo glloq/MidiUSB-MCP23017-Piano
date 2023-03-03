@@ -1,8 +1,9 @@
-# Piano MIDI contrôlé par microcontrôleur
+# Piano MIDI contrôlé par USB
 
 ## Objectif : 
 utiliser un microcontrôleur Arduino Leonardo pour convertir les messages MIDI en signaux de contrôle pour activer les électroaimants correspondants du piano
 
+**c'est laversion la plus simple possible !**
 #### Contrainte : 
 - le système ne gère aucun parametresmidi, il ne fait que réagir aux messages noteOn et noteOff
 - le systeme lit et execute tout les canaux midi recu
