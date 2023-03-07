@@ -7,7 +7,7 @@ utiliser un microcontrôleur Arduino Leonardo pour convertir les messages MIDI e
 #### Contrainte : 
 - le système ne gère aucun parametresmidi, il ne fait que réagir aux messages noteOn et noteOff
 - le systeme lit et execute tout les canaux midi recu
-- il n'est pas possible de gerrer la force/puissance de l'electroaimant avec les pwm
+- il n'est pas possible de gerrer la force/puissance de l'electroaimant avec les pwm (mais possible enjouant sur l'alimentation des électroaimants)
 
 ## Materiel utilisés :
 
