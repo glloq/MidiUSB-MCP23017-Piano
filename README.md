@@ -1,3 +1,5 @@
+## ------------------------------ project is no longer active  -------------------------
+
 # Piano MIDI contrôlé par USB
 
 ## Objectif : 
